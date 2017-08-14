@@ -1,1 +1,1 @@
-THIS IS A SIMPLE HARRIS DECTOR MADE SIMPLE FOR PRACTICE
+This is a simple harris detector made simply for practice
